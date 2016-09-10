@@ -6,7 +6,7 @@ M. P. Allen and D. Tildesley, originally published by Oxford University Press in
 1987.  They demonstrate many key algorithms that are foundational to molecular
 dynamics simulation of periodic systems.
 
-A&T Code | Source Name         |  Descriptions
+A&T Code | Source Name         | Descriptions
 ---------|---------------------|----------------------------------------
 F.01     | pbc.f               | Periodic boundary conditions in various geometries.
 F.02     | gear.f              | 5-value Gear predictor-corrector algorithm.
