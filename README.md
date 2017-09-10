@@ -1,6 +1,16 @@
 Allen & Tildesley Sample Programs
 ================================================================================
 
+**UPDATE**: The second edition of Allen & Tildesley was published in August 2017
+and comes with modernized examples of these algorithms (and more!) in both F90
+and Python 3.  The 2nd edition can be found at Oxford University Press:
+
+https://global.oup.com/academic/product/computer-simulation-of-liquids-9780198803201?cc=us&lang=en&
+
+and the example code can be found in the official Allen & Tildesley repo:
+
+https://github.com/Allen-Tildesley/examples
+
 These are the sample codes that supplemented "Computer Simulation of Liquids" by
 M. P. Allen and D. Tildesley, originally published by Oxford University Press in
 1987.  They demonstrate many key algorithms that are foundational to molecular
